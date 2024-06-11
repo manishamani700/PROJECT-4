@@ -1,0 +1,87 @@
+<html>
+    <head><title>media queries</title><style>
+        @media screen and (min-width:320px){
+        body{
+            background-color:gray;background-image:url(andhra.jpg);
+            background-size: cover;
+        }}
+        @media screen and (min-width:768px) and (max-width:1024px){body{background-color:white;background-image:url(bank2.jpg);
+            background-color:cover;
+            background-color:gold;
+        }}
+        @media screen and(min-width:1224px){
+        body{
+            background-color: darkolivegreen;background-image:url(bank3.jpg);
+            background-size:cover;
+        }}
+        @media screen and (min-width-1824px){
+        body{
+            background-color: indianred;background-image:url(bank4.jpg);
+            background-size:cover;
+        }}p{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;} h1{text-align:center;}
+             h2{text-align:center;} body{background-image:url(bank5.jpg);
+                background-size:cover; 
+             }
+             nav{
+                background-color: rgba(0, 195, 255, 0.432);
+                color:antiquewhite;
+                padding:10px;
+             }
+             nav ul{
+                list-style-type: none;
+                margin:0;
+                padding:0;
+             }
+             nav ul li{
+                display:inline;
+                margin-right: 20px;
+
+             }
+             nav ul li a{
+                color:azure;
+                text-decoration:underline;
+             }
+             p{ 
+                text-align:center;
+             }h1{
+                text-shadow:5px 5px 10px yellow;
+             }
+</style></head>
+<body> <header><nav>
+    <ul>
+        <li><a href="https://mediaboom.com/news/bank-website-design/">home</a></li>
+        <li><a href="file:///C:/Users/LabUser/ui%20development/mywebsite.html/about.html">about</a></li>
+        <li><a href="file:///C:/Users/LabUser/ui%20development/exp-2%20login%20page.html">login</a></li>
+        <li><a href="file:///C:/Users/LabUser/ui%20development/exp-3contact%20us.html">contact</a></li>
+        <li><a href="file:///C:/Users/LabUser/ui%20development/Registration%20page.html">registration</a></li>
+        <li><a href="https://sbi.co.in/web/personal-banking/personal-finance">loans</a></li>
+    </ul>
+</nav></header><section><h1>MANI BANK</h1>
+<h2> <p>"Business and Life are like a bank account 
+    you can't take out more than you put in"</p></h2> </section>
+<footer>
+    <p>&copy;2024 my google.all rights reserved</p>
+</footer>
+</body>
+</html    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
